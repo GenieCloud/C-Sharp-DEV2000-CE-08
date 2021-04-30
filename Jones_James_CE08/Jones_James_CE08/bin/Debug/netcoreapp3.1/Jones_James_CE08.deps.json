@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Jones_James_CE08/1.0.0": {
+        "runtime": {
+          "Jones_James_CE08.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jones_James_CE08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
